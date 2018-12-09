@@ -31,6 +31,9 @@ We're creating an application that shows the price of Bitcoin during the last mo
 
 ![Challenge](README_Image.png)
 
+
+Check it live [here](http://radinax.github.io/React-Bitcoin-Chart).
+
 We make use of Create-React-App for a quick setup, then we install **Apex Charts** which is great library for displaying data through different types of Charts and is compatible with React JS. 
 
 The structure of the Library looks like this:

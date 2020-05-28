@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Bitcoin-Chart/static/css/main.462b0bd9.chunk.css",
+    "main.js": "/React-Bitcoin-Chart/static/js/main.310bf896.chunk.js",
+    "main.js.map": "/React-Bitcoin-Chart/static/js/main.310bf896.chunk.js.map",
+    "runtime-main.js": "/React-Bitcoin-Chart/static/js/runtime-main.f08a087e.js",
+    "runtime-main.js.map": "/React-Bitcoin-Chart/static/js/runtime-main.f08a087e.js.map",
+    "static/js/2.1e483d28.chunk.js": "/React-Bitcoin-Chart/static/js/2.1e483d28.chunk.js",
+    "static/js/2.1e483d28.chunk.js.map": "/React-Bitcoin-Chart/static/js/2.1e483d28.chunk.js.map",
+    "index.html": "/React-Bitcoin-Chart/index.html",
+    "precache-manifest.e0098a6030c6718e0bed5dece15daef2.js": "/React-Bitcoin-Chart/precache-manifest.e0098a6030c6718e0bed5dece15daef2.js",
+    "service-worker.js": "/React-Bitcoin-Chart/service-worker.js",
+    "static/css/main.462b0bd9.chunk.css.map": "/React-Bitcoin-Chart/static/css/main.462b0bd9.chunk.css.map",
+    "static/js/2.1e483d28.chunk.js.LICENSE.txt": "/React-Bitcoin-Chart/static/js/2.1e483d28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f08a087e.js",
+    "static/js/2.1e483d28.chunk.js",
+    "static/css/main.462b0bd9.chunk.css",
+    "static/js/main.310bf896.chunk.js"
+  ]
+}

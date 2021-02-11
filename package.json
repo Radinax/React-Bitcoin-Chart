@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://radinax.github.io/React-Bitcoin-Chart/",
   "dependencies": {
-    "apexcharts": "^3.19.2",
+    "apexcharts": "^3.24.0",
     "gh-pages": "^2.0.1",
     "react": "^16.13.1",
     "react-apexcharts": "^1.3.7",
